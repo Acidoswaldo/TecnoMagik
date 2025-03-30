@@ -1,0 +1,1 @@
+  26/08/21 2:25:06 PM GMT-5: Starting composition “test”.  Output To: /Users/juanfelipemedrano/Documents/DarkElectronGames/Games/Brackeys Game Jams/2021-2/Animaciones/Powers/Tornado/Tornado_[#####].png    26/08/21 2:25:06 PM GMT-5: Finished composition “test”.  Total Time Elapsed: 0 SecondsLog closed on 26/08/21 at 2:25:06 PM GMT-5
